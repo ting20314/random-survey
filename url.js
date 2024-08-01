@@ -8,6 +8,6 @@
 
 
 const urls = [
-	'http://form-timer.com/start/76dd317a',
-	'http://form-timer.com/start/d111ff81'
+	'https://docs.google.com/forms/d/e/1FAIpQLSd19_6sKOAt7BE4vhtSffQMbE7IdUOLqbznm0MbscKMimXP0A/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSeKHQG42I3KIaA42R2P5TynqbmVdiRHQsL-pBGElKk_RBvQFA/viewform?usp=sf_link'
 ];
